@@ -134,7 +134,7 @@ function App() {
     </body>
 
     <footer  >
-        <h1 style={{backgroundColor:'#039798'}}>Gracias</h1>
+        
         </footer> 
 
    
